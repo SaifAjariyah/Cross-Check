@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "crch"
+version = "0.1.0"
+description = "Cross Check tool"
+authors = [{ name = "Saif Al-Ajaria" }]
+dependencies = []
+
+[project.scripts]
+crch = "crch.main:main"

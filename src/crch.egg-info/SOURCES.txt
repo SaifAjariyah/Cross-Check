@@ -1,0 +1,8 @@
+pyproject.toml
+src/crch/__init__.py
+src/crch/main.py
+src/crch.egg-info/PKG-INFO
+src/crch.egg-info/SOURCES.txt
+src/crch.egg-info/dependency_links.txt
+src/crch.egg-info/entry_points.txt
+src/crch.egg-info/top_level.txt

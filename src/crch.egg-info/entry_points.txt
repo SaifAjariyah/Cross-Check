@@ -1,0 +1,2 @@
+[console_scripts]
+crch = crch.main:main
