@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "crch"
 version = "0.1.0"
 description = "Cross Check tool"
-authors = [{ name = "Saif Al-Ajaria" }]
+authors = [{ name = "Saif Al-Ajariyah" }]
 dependencies = []
 
 [project.scripts]
