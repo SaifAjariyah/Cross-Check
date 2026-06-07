@@ -8,7 +8,6 @@ def process_stream(stream1, stream2, p1, p2):
             else:
                 print('\033[31m<%s:%s> line %d does not match!\033[0m' % (p1, p2, nu))
 
-
 def main():
     print("Cross Check tool running")
     if len(sys.argv) == 3:
